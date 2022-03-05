@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="btn">Ok</string>
+    <string name="input">Set a task</string>
+    <string name="tasks">Tasks</string>
+    <string name="doi">Doing</string>
+</resources>
